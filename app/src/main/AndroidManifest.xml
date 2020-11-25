@@ -41,6 +41,19 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.android.grafika.VideoViewActivity"
+            android:label="@string/title_activity_video_view" >
+        </activity>
+        <activity
+            android:name="com.android.grafika.VideoSurfaceViewActivity"
+            android:label="@string/title_activity_video_surfaceview" >
+        </activity>
+        <activity
+            android:name="com.android.grafika.VideoGLSurfaceViewActivity"
+            android:label="@string/title_activity_video_glsurfaceview" >
+        </activity>
+
+        <activity
             android:name="com.android.grafika.ReadPixelsActivity"
             android:label="@string/title_activity_read_pixels" >
         </activity>

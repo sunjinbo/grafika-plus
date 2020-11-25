@@ -49,7 +49,17 @@ public class MainActivity extends ListActivity {
      * the activity class.
      */
     private static final String[][] TESTS = {
-        { "* Play video (TextureView)",
+        { "Play video (VideoView)",
+            "Plays .mp4 videos created by Grafika",
+            "VideoViewActivity" },
+        { "Play video (SurfaceView)",
+            "Plays .mp4 videos created by Grafika",
+            "VideoSurfaceViewActivity" },
+        { "Play video (GLSurfaceView)",
+            "Plays .mp4 videos created by Grafika",
+            "VideoGLSurfaceViewActivity" },
+
+        { "Play video (TextureView)",
             "Plays .mp4 videos created by Grafika",
             "PlayMovieActivity" },
         { "Continuous capture",
