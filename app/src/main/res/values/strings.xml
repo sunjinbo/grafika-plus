@@ -130,8 +130,8 @@
     </string-array>
 
     <string name="title_activity_video_view">Play video (VideoView)</string>
-    <string name="title_activity_video_surfaceview">Play video (SurfaceView)</string>
-    <string name="title_activity_video_glsurfaceview">Play video (GLSurfaceView)</string>
+    <string name="title_activity_video_surfaceview">Play video (SurfaceView+MediaPlayer)</string>
+    <string name="title_activity_video_glsurfaceview">Play video (GLSurfaceView+MediaPlayer)</string>
 
     <string name="title_activity_camera_capture">Show + capture camera</string>
     <string name="title_activity_play_movie">Play video (TextureView)</string>

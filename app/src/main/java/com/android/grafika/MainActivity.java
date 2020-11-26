@@ -52,10 +52,10 @@ public class MainActivity extends ListActivity {
         { "Play video (VideoView)",
             "Plays .mp4 videos created by Grafika",
             "VideoViewActivity" },
-        { "Play video (SurfaceView)",
+        { "Play video (SurfaceView+MediaPlayer)",
             "Plays .mp4 videos created by Grafika",
             "VideoSurfaceViewActivity" },
-        { "Play video (GLSurfaceView)",
+        { "Play video (GLSurfaceView+MediaPlayer)",
             "Plays .mp4 videos created by Grafika",
             "VideoGLSurfaceViewActivity" },
 
