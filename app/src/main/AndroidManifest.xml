@@ -52,7 +52,10 @@
             android:name="com.android.grafika.VideoGLSurfaceViewActivity"
             android:label="@string/title_activity_video_glsurfaceview" >
         </activity>
-
+        <activity
+            android:name="com.android.grafika.VideoTextureViewActivity"
+            android:label="@string/title_activity_video_textureview" >
+        </activity>
         <activity
             android:name="com.android.grafika.ReadPixelsActivity"
             android:label="@string/title_activity_read_pixels" >
